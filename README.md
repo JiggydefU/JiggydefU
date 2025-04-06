@@ -1,16 +1,23 @@
-## Hi there 👋
+# 👋🏽 Hi, I’m a Mobile Developer (React Native + Flutter)
 
-<!--
-**JiggydefU/JiggydefU** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **mobile apps** that are smooth, fast, and production-ready — from MVPs to full-scale platforms.
 
-Here are some ideas to get you started:
+## 🚀 Tech Stack
+- ⚛️ React Native
+- 🎯 Flutter & Dart
+- 🔥 Firebase
+- 💾 SQLite, Supabase, MongoDB
+- 🛠️ REST APIs & UI/UX
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Available for Freelance Projects
+Let’s build your app fast — DM me or reach out on Twitter/X.
+
+## 📌 Pinned Projects
+- [React Native Starter](https://github.com/JiggydefU/react-native-starter)
+- [Flutter UI Templates](https://github.com/JiggydefU/flutter-ui-kit)
+- [Expo + Firebase Auth Starter](https://github.com/JiggydefU/expo-firebase-auth)
+
+### 🌍 Let’s Connect
+- 🐦 [Twitter](https://x.com/_jiggyDev)
+<!--- 💼 [LinkedIn](https://linkedin.com/in/yourname)
+- 📫 Email: yourname@domain.com -->
